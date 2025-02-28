@@ -11,4 +11,3 @@ C++ | Speed-Obsessed Problem Solver
 📬 Let’s connect! → hasanimamb.000@gmail.com | <br>
 <br>
 Fun fact: I optimize code so hard, even my coffee runs faster. <br>
-          If it’s not fast, it’s not finished.
